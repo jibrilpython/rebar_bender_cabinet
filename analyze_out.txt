@@ -1,0 +1,79 @@
+﻿Analyzing lib...                                                
+
+  error - Classes can only extend other classes - lib\providers\image_provider.dart:10:29 - extends_non_class
+  error - The method 'notifyListeners' isn't defined for the type 'ImageNotifier' - lib\providers\image_provider.dart:15:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'ImageNotifier' - lib\providers\image_provider.dart:20:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'ImageNotifier' - lib\providers\image_provider.dart:32:7 - undefined_method
+  error - 'ImageNotifier' doesn't conform to the bound 'ChangeNotifier?' of the type parameter 'NotifierT' - lib\providers\image_provider.dart:37:46 - type_argument_not_matching_bounds
+  error - Classes can only extend other classes - lib\providers\input_provider.dart:8:29 - extends_non_class
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:40:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:45:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:50:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:55:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:60:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:65:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:70:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:75:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:80:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:85:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:90:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:95:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:100:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:105:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:110:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:115:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:120:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\input_provider.dart:143:5 - undefined_method
+  error - 'InputNotifier' doesn't conform to the bound 'ChangeNotifier?' of the type parameter 'NotifierT' - lib\providers\input_provider.dart:147:46 - type_argument_not_matching_bounds
+  error - Classes can only extend other classes - lib\providers\project_provider.dart:13:31 - extends_non_class
+  error - The method 'notifyListeners' isn't defined for the type 'ProjectNotifier' - lib\providers\project_provider.dart:33:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'ProjectNotifier' - lib\providers\project_provider.dart:84:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'InputNotifier' - lib\providers\project_provider.dart:114:11 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'ProjectNotifier' - lib\providers\project_provider.dart:163:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'ProjectNotifier' - lib\providers\project_provider.dart:171:5 - undefined_method
+  error - 'ProjectNotifier' doesn't conform to the bound 'ChangeNotifier?' of the type parameter 'NotifierT' - lib\providers\project_provider.dart:175:48 - type_argument_not_matching_bounds
+  error - Classes can only extend other classes - lib\providers\search_provider.dart:8:30 - extends_non_class
+  error - The method 'notifyListeners' isn't defined for the type 'SearchNotifier' - lib\providers\search_provider.dart:15:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'SearchNotifier' - lib\providers\search_provider.dart:20:5 - undefined_method
+  error - 'SearchNotifier' doesn't conform to the bound 'ChangeNotifier?' of the type parameter 'NotifierT' - lib\providers\search_provider.dart:40:47 - type_argument_not_matching_bounds
+  error - Classes can only extend other classes - lib\providers\user_provider.dart:8:28 - extends_non_class
+  error - The method 'notifyListeners' isn't defined for the type 'UserNotifier' - lib\providers\user_provider.dart:14:5 - undefined_method
+  error - The method 'notifyListeners' isn't defined for the type 'UserNotifier' - lib\providers\user_provider.dart:21:5 - undefined_method
+  error - 'UserNotifier' doesn't conform to the bound 'ChangeNotifier?' of the type parameter 'NotifierT' - lib\providers\user_provider.dart:25:45 - type_argument_not_matching_bounds
+   info - Unnecessary use of multiple underscores - lib\screens\add_screen.dart:313:39 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\add_screen.dart:313:43 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\add_screen.dart:376:33 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\add_screen.dart:417:33 - unnecessary_underscores
+warning - Unused import: 'dart:io' - lib\screens\home_screen.dart:1:8 - unused_import
+  error - There's no constant named 'fade' in 'CollapseMode' - lib\screens\home_screen.dart:86:36 - undefined_enum_constant
+   info - Missing type annotation - lib\screens\home_screen.dart:183:21 - strict_top_level_inference
+   info - Missing type annotation - lib\screens\home_screen.dart:198:25 - strict_top_level_inference
+   info - Unnecessary use of multiple underscores - lib\screens\home_screen.dart:228:43 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\home_screen.dart:228:47 - unnecessary_underscores
+warning - The label 'import_dart_io' isn't used - lib\screens\home_screen.dart:301:5 - unused_label
+warning - Unused import: 'package:rebar_bender_cabinet/providers/image_provider.dart' - lib\screens\info_screen.dart:7:8 - unused_import
+warning - Unused import: 'package:rebar_bender_cabinet/providers/input_provider.dart' - lib\screens\info_screen.dart:8:8 - unused_import
+   info - Unnecessary use of multiple underscores - lib\screens\info_screen.dart:94:41 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\info_screen.dart:94:45 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\showcase_screen.dart:127:74 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\showcase_screen.dart:127:78 - unnecessary_underscores
+
+flutter : 57 issues 
+found. (ran in 1.3s)
+At line:1 char:1
++ flutter analyze 
+--no-pub lib 2>&1 | 
+Out-File -FilePath 
+analyze_out.tx ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (57 issues fou   
+ nd. (ran in 1.3s):    
+String) [], Remote    
+Exception
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 

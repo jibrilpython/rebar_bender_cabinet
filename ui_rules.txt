@@ -1,0 +1,22 @@
+1. DESIGN PHILOSOPHY
+Visual: “Forged & Structured” — Think of a master carpenter’s tool chest meets a modern architectural firm. 
+The UI uses "Bento-box" layouts to organize technical specs into clean, structural compartments. Use thick, 
+intentional borders that mimic the strength of rebar, paired with soft shadows to give the elements a "heavy" physical presence.
+
+Mood: Grounded, industrial-premium, rugged, and meticulously organized.
+
+Important: No thin, fragile lines. Use bold iconography and high-fidelity textures. 
+Avoid "techy" neon glows; instead, focus on a "Cyber-Organic" blend of raw materials and clean digital surfaces.
+
+
+2. COLORS
+#121417 — Main background (Deep obsidian / Charcoal steel)
+#EAECEF — Primary text & high contrast elements (Cool off-white for maximum legibility)
+#1C1F26 — Secondary panels / input fields (Dark slate / "Iron" surface)
+#94A3B8 — Secondary text (Muted blue-grey / Oxidation)
+#F59E0B — Primary accent (Construction Orange/Amber — high visibility)
+#2D333D — Outline/Stroke (Rebar-grey / Structural framing)
+#EF4444 — Critical errors only (Safety Red)
+
+Important: Avoid glossy gradients. Keep the UI matte and tactile. Also, do not add your own colors, 
+only strictly the colors that are written in this document.

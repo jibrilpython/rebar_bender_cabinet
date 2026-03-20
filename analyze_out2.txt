@@ -1,0 +1,34 @@
+﻿Analyzing lib...                                                
+
+   info - Unnecessary use of multiple underscores - lib\screens\add_screen.dart:313:39 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\add_screen.dart:313:43 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\add_screen.dart:376:33 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\add_screen.dart:417:33 - unnecessary_underscores
+   info - Missing type annotation - lib\screens\home_screen.dart:183:21 - strict_top_level_inference
+   info - Missing type annotation - lib\screens\home_screen.dart:198:25 - strict_top_level_inference
+   info - Unnecessary use of multiple underscores - lib\screens\home_screen.dart:227:43 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\home_screen.dart:227:47 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\info_screen.dart:92:41 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\info_screen.dart:92:45 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\showcase_screen.dart:127:74 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\showcase_screen.dart:127:78 - unnecessary_underscores
+
+flutter : 12 issues 
+found. (ran in 2.3s)
+At line:1 char:1
++ flutter analyze 
+--no-pub lib 2>&1 | 
+Out-File -FilePath 
+analyze_out2.t ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (12 issues fou   
+ nd. (ran in 2.3s):    
+String) [], Remote    
+Exception
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
