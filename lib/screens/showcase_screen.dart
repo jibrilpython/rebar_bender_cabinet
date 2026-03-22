@@ -44,6 +44,7 @@ class _ShowcaseScreenState extends ConsumerState<ShowcaseScreen>
       vsync: this,
       duration: const Duration(milliseconds: 1500),
     );
+    _typewriterAnim = ConstantTween<int>(0).animate(_typewriterCtrl);
   }
 
   @override
@@ -56,14 +57,15 @@ class _ShowcaseScreenState extends ConsumerState<ShowcaseScreen>
     setState(() {
       _terminalText =
           '''
-> INITIALIZING SCAN...
+[ ARTIFACT DATA ]
 > TARGET LOCK: ${item.toolType?.name.toUpperCase() ?? 'UNKNOWN'}
 > SYS-ID: ${item.catalogueIdentifier ?? 'N/A'}
 > MFG: ${item.manufacturer ?? 'UNKNOWN'}
 > ERA: ${item.eraOfProduction ?? 'UNKNOWN'}
 > CLASSIFICATION: ${item.toolName ?? 'PROTOTYPE'}
 
-REBAR SCANNER ACTIVE. DRAG LENS TO INSPECT INTERNAL STRUCTURAL INTEGRITY.
+> STATUS: READY
+DRAG LENS TO INSPECT INTERNAL STRUCTURAL INTEGRITY.
 ''';
     });
 
